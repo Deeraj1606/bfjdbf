@@ -1,0 +1,7 @@
+Monthly Attendance Report
+=====================
+
+Month: 2025-02
+Total Classes: 3
+Average Attendance: 100.00%
+
